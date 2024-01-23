@@ -4,7 +4,7 @@
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi, I'm Tina (her/she), second year student of MSPPM flagship. I'm a tennis and classical music enthusiast. I want to work in Conculsitng industry after graduation and happy to meet with anyone with same interest or anyone who want to mock case study interview with me! :)
+Hi, I'm Tina (her/she), second year student of MSPPM flagship. I'm a tennis and classical music enthusiast. I want to work in Consulting industry after graduation and happy to meet with anyone with same interest or anyone who want to mock case study interview with me! :)
 
 # What I hope to learn
 As I want to work in Conuslting in the future, which requires plenty of meetings with different stakeholders/clients, I want to utilize better data visualisation tools to develop dashboards or simply charts to perform data trends, patterns, and anomalies, etc. for effective communication in cross-department meetings. Below are some examples of what I want to learn:
