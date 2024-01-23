@@ -11,20 +11,14 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi, I'm Tina (her/she), second year student of MSPPM flagship. I'm a tennis and classical music enthusiast. I want to work in Conculsitng industry after graduation and happy to meet with anyone with same interest or anyone who want to mock case study interview with me! :)
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+As I want to work in Conuslting in the future, which requires plenty of meetings with different stakeholders/clients, I want to utilize better data visualisation tools to develop dashboards or simply charts to perform data trends, patterns, and anomalies, etc. for effective communication in cross-department meetings. Below are some examples of what I want to learn:
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Using color to better visualise data #1
+2. Creating meaningful chart to better tell the stories from the data #2
+3. Making beautiful and informative charts #3
 
 # Portfolio
 
