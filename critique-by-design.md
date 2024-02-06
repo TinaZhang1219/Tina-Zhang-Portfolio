@@ -2,6 +2,7 @@
 
 
 # Original Data Visualization
+Please click on the link.
 https://www.forbes.com/lists/athletes/?sh=734b983d5b7e
 
 # Wireframe of the Data Visualization
