@@ -3,7 +3,7 @@
 # Outline
 I want to tell a story of Chile's economy is high relient on the copper export and what policy Chile government should implement to prevent a vulnerable economy that highly relient on the a commodity that has rapid and big variation in price. 
 
-My interest in this topic was first driven by a prompt I saw online - "Even the taxi driver at Chile knows the daily price of the copper.", this makes me wondering how could a country ties to natualral resources that much. Then when I took the International Policy and Politics at Heinz, I chose Latin America as the topic of my presentation, and I dive deeper into researching Chilean economy, where I found 25% of the Chilean GDP is from the export of copper. After researching on successful policies that've been implemented (how OPEC control the crude oil price), I suggest Chile government to cooperate with other major copper exporters to better control the copper price by controlling the amount of mining of copper.
+My interest in this topic was first driven by a prompt I saw online - "Even the taxi driver at Chile knows the daily price of the copper.", this makes me wondering how could a country ties to natualral resources that much. Then when I took the International Policy and Politics at Heinz, I chose Latin America as the topic of my presentation, and I dived deeper into researching Chilean economy, where I found 25% of the Chilean GDP is from the export of copper. After researching on successful policies that've been implemented (how OPEC control the crude oil price), I suggest Chile government to cooperate with other major copper exporters to better control the copper price by controlling the amount of mining of copper.
 
 Therefore, in this project, I will reconstruct the process of how I find the fact that Chilean GDP is varies with the price of copper, and how do I develop a policy recommendation from visulizing my data analysis. 
 
@@ -14,7 +14,11 @@ There're four elements of my story:
 4. Data visulizing how OPEC are able to control the crude oil price by controlling the amount of production of crude oil (OPEC policy works well and can be adopted to formulate Chile policy)
 
 ## Initial sketches
-[IMG_9927.pdf](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/files/14274595/IMG_9927.pdf)
+
+![IMG_9927 Small](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/9784db43-1448-49db-84a9-aa2aba3a1eef)
+![IMG_9928 Small](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/e9d2eb7a-4472-4e18-827c-f0e60feed74e)
+![IMG_9929 Small](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/48134df9-8338-4371-8f99-39e7216c2bef)
+![IMG_9930 Small](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/112d0318-5c5c-4fa4-bb00-88e3c805217f)
 
 
 # The data
