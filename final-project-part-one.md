@@ -15,7 +15,7 @@ There're four elements of my story:
 
 ## Initial sketches
 1. Data visulizing the major copper exporters (Chile is the biggest exporter)
-Title: World Major Copper Exporter by Contries
+/ Title: World Major Copper Exporter by Contries
 ![IMG_9927](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/fc5670f9-049e-4eec-ad9b-72b886b842aa)
 
 2. Data visulizing the rank of % of copper export in GDP (Chile has the highest percentage among all the countries)
