@@ -1,21 +1,21 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+I want to tell a story of Chile's economy is high relient on the copper export and what policy Chile government should implement to prevent a vulnerable economy that highly relient on the a commodity that has rapid and big variation in price. 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+My interest in this topic was first driven by a prompt I saw online - "Even the taxi driver at Chile knows the daily price of the copper.", this makes me wondering how could a country ties to natualral resources that much. Then when I took the International Policy and Politics at Heinz, I chose Latin America as the topic of my presentation, and I dive deeper into researching Chilean economy, where I found 25% of the Chilean GDP is from the export of copper. After researching on successful policies that've been implemented (how OPEC control the crude oil price), I suggest Chile government to cooperate with other major copper exporters to better control the copper price by controlling the amount of mining of copper.
 
-Text here...
+Therefore, in this project, I will reconstruct the process of how I find the fact that Chilean GDP is varies with the price of copper, and how do I develop a policy recommendation from visulizing my data analysis. 
+
+There're four elements of my story:
+1. Data visulizing the major copper exporters (Chile is the biggest exporter)
+2. Data visulizing the rank of % of copper export in GDP (Chile has the highest percentage among all the countries)
+3. Data visulizing how the Chilean GDP changes with the variation of the copper price (Chile economy is highly relient on the copper price)
+4. Data visulizing how OPEC are able to control the crude oil price by controlling the amount of production of crude oil (OPEC policy works well and can be adopted to formulate Chile policy)
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+[IMG_9927.pdf](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/files/14274595/IMG_9927.pdf)
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
