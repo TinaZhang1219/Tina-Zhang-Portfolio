@@ -14,12 +14,17 @@ There're four elements of my story:
 4. Data visulizing how OPEC are able to control the crude oil price by controlling the amount of production of crude oil (OPEC policy works well and can be adopted to formulate Chile policy)
 
 ## Initial sketches
+1. Data visulizing the major copper exporters (Chile is the biggest exporter)
+![IMG_9927](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/fc5670f9-049e-4eec-ad9b-72b886b842aa)
 
-![IMG_9927 Small](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/9784db43-1448-49db-84a9-aa2aba3a1eef)
-![IMG_9928 Small](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/e9d2eb7a-4472-4e18-827c-f0e60feed74e)
-![IMG_9929 Small](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/48134df9-8338-4371-8f99-39e7216c2bef)
-![IMG_9930 Small](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/112d0318-5c5c-4fa4-bb00-88e3c805217f)
+2. Data visulizing the rank of % of copper export in GDP (Chile has the highest percentage among all the countries)
+![IMG_9928](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/5da376be-796e-4103-9406-d8697d13db22)
 
+3. Data visulizing how the Chilean GDP changes with the variation of the copper price (Chile economy is highly relient on the copper price)
+![IMG_9929](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/e4220bd7-13a4-4ade-a42d-36763f6c245b)
+
+4. Data visulizing how OPEC are able to control the crude oil price by controlling the amount of production of crude oil (OPEC policy works well and can be adopted to formulate Chile policy)
+![IMG_9930](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio/assets/157413922/d58e9ae2-da56-4ad3-8dc4-cb03e3948c3d)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
