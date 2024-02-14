@@ -78,6 +78,5 @@ URL: https://www.macrotrends.net/1369/crude-oil-price-history-chart
 Description: A database of the crude oil prices (including Average Closing Price, Year Open, Year High, Year Low and Year Close) of the past 70 years (from 1946 to today)
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I will only use Excel (just to clean the data) and Tableau in my project.
+I will first using Excel to clean the data and make sure the format is consistent acorss my multiple datasets. Then I will import the data into Tableau to visulize the data. At the end, there will be a dashboard that contains four graphs.
