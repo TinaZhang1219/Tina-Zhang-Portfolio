@@ -8,10 +8,10 @@ My interest in this topic was first driven by a prompt I saw online - "Even the 
 Therefore, in this project, I will reconstruct the process of how I find the fact that Chilean GDP is varies with the price of copper, and how do I develop a policy recommendation from visulizing my data analysis. 
 
 There're four elements of my story:
-1. Data visulizing the major copper exporters (Chile is the biggest exporter)
-2. Data visulizing the rank of % of copper export in GDP (Chile has the highest percentage among all the countries)
-3. Data visulizing how the Chilean GDP changes with the variation of the copper price (Chile economy is highly relient on the copper price)
-4. Data visulizing how OPEC are able to control the crude oil price by controlling the amount of production of crude oil (OPEC policy works well and can be adopted to formulate Chile policy)
+Setup: Data visulizing the major copper exporters (Chile is the biggest exporter)
+Climax: Data visulizing the rank of % of copper export in GDP (Chile has the highest percentage among all the countries)
+Conflict: Data visulizing how the Chilean GDP changes with the variation of the copper price (Chile economy is highly relient on the copper price) 
+Call to Action: Data visulizing how OPEC are able to control the crude oil price by controlling the amount of production of crude oil (OPEC policy works well and can be adopted to formulate Chile policy)
 
 ## Initial sketches
 1. Data visulizing the major copper exporters (Chile is the biggest exporter)
