@@ -27,8 +27,7 @@ My goals for the research include understanding the current state of the copper 
 | Goal | Questions to Ask |
 |------|------------------|
 |  Current state of the copper industry    |  How would you describe the current state of the copper industry in Chile?	   |
-|   Economic impact of copper   |      - How significant is the reliance on copper exports for Chile's GDP and overall economic stability?	
-- What are the primary challenges or vulnerabilities associated with this dependency?            |
+|   Economic impact of copper   |      - How significant is the reliance on copper exports for Chile's GDP and overall economic stability? What are the primary challenges or vulnerabilities associated with this dependency?            |
 |   Policy recommendations   |    Can you understand the correlation between OPEC policy case and Chile policy recommendation              |
 
 
