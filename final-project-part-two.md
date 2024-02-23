@@ -27,24 +27,18 @@ My goals for the research include understanding the current state of the copper 
 | Goal | Questions to Ask |
 |------|------------------|
 |  Current state of the copper industry    |  How would you describe the current state of the copper industry in Chile?	   |
-|   Economic impact of copper   |  How significant is the reliance on copper exports for Chile's GDP and overall economic stability? 
-What are the primary challenges or vulnerabilities associated with this dependency?            |
-|   Policy recommendations   |    Can you understand the correlation between OPEC policy case and Chile policy recommendation              |
-
-
-Text here!
+|   Economic impact of copper   |    How significant is the reliance on copper exports for Chile's GDP and overall economic stability?    |
+|   Economic impact of copper   |    What are the primary challenges or vulnerabilities associated with this dependency?             |
+|   Policy recommendations   |    Can you understand the correlation and synergies between OPEC policy case and Chile policy recommendation? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | A | B | C |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| How would you describe the current state of the copper industry in Chile? | The interviewee expressed limited knowledge about the current state of the copper industry in Chile but acknowledged its importance within the global economy. | The interviewee demonstrated a moderate understanding of the current state of the copper industry in Chile, citing recent news articles and market trends.   | The interviewee admitted to having little familiarity with policy issues but recognized the importance of the copper industry in Chile's economy.|
+| How significant is the reliance on copper exports for Chile's GDP and overall economic stability? |The interviewee recognized the significance of copper exports for Chile's GDP but was not aware of the specific percentage. |They emphasized the substantial contribution of copper exports to Chile's GDP and overall economic stability.|They were unaware of the specific contribution of copper exports to Chile's GDP but acknowledged its significance. |
+| What are the primary challenges or vulnerabilities associated with this dependency? | They highlighted the potential risks associated with over-reliance on a single commodity for economic stability, citing vulnerability to fluctuations in global demand and prices. | However, they also noted the vulnerability of the economy to fluctuations in copper prices and the need for diversification. |The interviewee expressed concern about the potential negative consequences of over-reliance on copper exports. |
+|Can you understand the correlation and synergies between OPEC policy case and Chile policy recommendation? |  The interviewee struggled to grasp the correlation between OPEC policies and potential recommendations for Chile but expressed interest in learning more about strategies for diversifying the economy away from copper dependence. | The interviewee did not fully grasp the correlation between OPEC policies and potential recommendations for Chile. | The interviewee struggled to understand the correlation between OPEC policies and Chilean policy recommendations, indicating a need for simpler explanations or analogies. |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
