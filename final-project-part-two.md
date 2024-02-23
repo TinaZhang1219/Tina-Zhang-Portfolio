@@ -12,28 +12,24 @@ To identify representative individuals for user research, I target various stake
 Government officials and policymakers involved in economic planning and regulation.
 Representatives from mining companies operating in Chile.
 Economists and researchers specializing in resource economics or the Chilean economy.
-Workers and communities residing in regions where copper mining is prevalent.
-Environmentalists and activists concerned with the ecological impact of mining activities.
-Investors and financial analysts interested in the Chilean market.
 
 ### Audience Information
-| Audience ID | Questions to Ask |
-|A      |------------------|
-|  B    |                  |
-|      |                  |
-|      |                  | 
+| Audience ID | Description |
+|------|------------------|
+|  A    |male, 50 years old, government official, not familiar with Chile economy               |
+|  B    |female, 45 years old, working in banking industry, interested in stock market                  |
+|  C    |male, 23 years old, Latino, not familiar with policy issues                 |
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+My goals for the research include understanding the current state of the copper industry in Chile, its historical significance, challenges faced, and potential policy recommendations for sustainable economic growth. The list of questions regading to each goal are as below.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|  Current state of the copper industry    |  How would you describe the current state of the copper industry in Chile?	   |
+|   Economic impact of copper   |      - How significant is the reliance on copper exports for Chile's GDP and overall economic stability?	
+- What are the primary challenges or vulnerabilities associated with this dependency?            |
+|   Policy recommendations   |    Can you understand the correlation between OPEC policy case and Chile policy recommendation              |
 
 
 Text here!
