@@ -1,18 +1,28 @@
 | [home page](https://tinazhang1219.github.io/Tina-Zhang-Portfolio/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-https://preview.shorthand.com/x23W2yyUVaiFZd4E
-
-Text here!
+https://preview.shorthand.com/jn75qgjQEtvrU87s
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+### Approach to identifying representative individuals
+To identify representative individuals for user research, I target various stakeholders who are directly or indirectly affected by the copper industry in Chile and its impact on the economy. This include:
 
-Text here!
+Government officials and policymakers involved in economic planning and regulation.
+Representatives from mining companies operating in Chile.
+Economists and researchers specializing in resource economics or the Chilean economy.
+Workers and communities residing in regions where copper mining is prevalent.
+Environmentalists and activists concerned with the ecological impact of mining activities.
+Investors and financial analysts interested in the Chilean market.
+
+### Audience Information
+| Audience ID | Questions to Ask |
+|A      |------------------|
+|  B    |                  |
+|      |                  |
+|      |                  | 
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -47,7 +57,7 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| Lack of reference | Describe what, if any changes you anticipate making to address the observation. |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
@@ -56,9 +66,3 @@ Text here!
 > ...include any final thoughts you have here. 
 
 Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
