@@ -1,7 +1,7 @@
 | [home page](https://tinazhang1219.github.io/Tina-Zhang-Portfolio/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+[Link to Shorthand](https://preview.shorthand.com/jn75qgjQEtvrU87s)
 
 Text here!
 
