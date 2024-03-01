@@ -3,12 +3,12 @@
 # The final data story
 [Link to Shorthand](https://preview.shorthand.com/jn75qgjQEtvrU87s)
 
-Text here!
-
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+### Add another graph in OPEC Example Part
+Based on the feedback I received when interviewing a few people, it was mention multiple times that the audience are unable to grasp the correlation between OPEC policies and potential recommendations for Chile. Therefore, I will provide another graph that visualize the effectiveness of OPEC policy on control the oil price, and provide more straightforward analogies to help readers understand the connection between global commodity markets and potential policy implications for Chile. This will involve breaking down complex concepts into more digestible terms and drawing parallels with familiar scenarios to enhance comprehension.
+
+
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
