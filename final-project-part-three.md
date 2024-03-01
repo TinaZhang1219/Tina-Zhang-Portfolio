@@ -1,7 +1,7 @@
 | [home page](https://tinazhang1219.github.io/Tina-Zhang-Portfolio/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
-[Link to Shorthand](https://preview.shorthand.com/jn75qgjQEtvrU87s)
+[Link to Shorthand](https://carnegiemellon.shorthandstories.com/43e4a580-c218-4020-ac60-757fa5ab5fc8/index.html)
 
 # Changes made since Part II
 
