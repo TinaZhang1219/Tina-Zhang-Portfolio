@@ -4,8 +4,11 @@
 [Link to Shorthand](https://carnegiemellon.shorthandstories.com/43e4a580-c218-4020-ac60-757fa5ab5fc8/index.html)
 
 # Changes made since Part II
+After I completed the first draft of the shorthand page and receiving feedback, I made the following adjustments:
 
-### Add another graph in OPEC Example Part
+### Add a graph to show the Chilean Export Breakdown by Product
+
+### Add another graph to show the correlation between OPEC and crude oil price
 Based on the feedback I received when interviewing a few people, it was mention multiple times that the audience are unable to grasp the correlation between OPEC policies and potential recommendations for Chile. Therefore, I will provide another graph that visualize the effectiveness of OPEC policy on control the oil price, and provide more straightforward analogies to help readers understand the connection between global commodity markets and potential policy implications for Chile. This will involve breaking down complex concepts into more digestible terms and drawing parallels with familiar scenarios to enhance comprehension.
 
 
