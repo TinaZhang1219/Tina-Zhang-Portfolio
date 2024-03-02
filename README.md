@@ -3,6 +3,10 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
+[Webpage URL](https://tinazhang1219.github.io/Tina-Zhang-Portfolio/)
+[Repository URL](https://github.com/TinaZhang1219/Tina-Zhang-Portfolio)
+
+
 # About me
 Hi, I'm Tina (her/she), second year student of MSPPM flagship. I'm a tennis and classical music enthusiast. I want to work in Consulting industry after graduation and happy to meet with anyone with same interest or anyone who want to mock case study interview with me! :)
 
