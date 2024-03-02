@@ -1,7 +1,7 @@
 | [home page](https://tinazhang1219.github.io/Tina-Zhang-Portfolio/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
-https://preview.shorthand.com/jn75qgjQEtvrU87s
+[Link to Shorthand](https://preview.shorthand.com/jn75qgjQEtvrU87s)
 
 # User research 
 
@@ -17,9 +17,9 @@ Policy student interested in transform Chile economy and mining industry.
 ### Audience Information
 | Audience | Description |
 |------|------------------|
-|  A    |male, 50 years old, government official, not familiar with Chile economy               |
-|  B    |female, 45 years old, working in banking industry, interested in stock market                  |
-|  C    |male, 23 years old, Latino, not familiar with policy issues                 |
+|  A | male, 50 years old, government official, not familiar with Chile economy |
+|  B | female, 45 years old, working in banking industry, interested in stock market |
+|  C | male, 23 years old, Latino, not familiar with policy issues|
 
 
 ## Interview script
