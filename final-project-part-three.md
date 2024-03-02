@@ -26,7 +26,7 @@ The only adjustment I made for my audience in my final project is in the present
 
 ## References
 All references like information, photos, and data sources are correctly cited in shorthand.
-
+[Link to Shorthand](https://carnegiemellon.shorthandstories.com/43e4a580-c218-4020-ac60-757fa5ab5fc8/index.html)
 
 # Final Thoughts
 Overall, I really enjoyed working on this project. Having prior knowledge of the data and the subject matter was beneficial as it allowed me to concentrate on tailoring the presentation for the appropriate/target audience. However, I do regret not having explored more design options for my visuals. I felt somewhat limited by my proficiency in the software and wished I could have executed my ideas more effectively. Looking ahead to the next iteration, I anticipate improving my design skills through the Tableau class, which should enable me to better articulate my concepts. Given more time, I would have liked to experiment further to bring my designs to fruition, though Tableau's complexity sometimes posed a challenge. Finally, I would have wanted to find a way to connect the shorthand page with my policy memo to Chile government that I wrote related to this theme and the shorthand page.
