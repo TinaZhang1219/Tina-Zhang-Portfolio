@@ -2,8 +2,8 @@
 
 
 # Original Data Visualization
-Please click on the link.
-https://www.forbes.com/lists/athletes/?sh=734b983d5b7e
+
+[Link](https://www.forbes.com/lists/athletes/?sh=734b983d5b7e)
 
 ### My Reviews on the Original Visualization
 The table ranking the name, sport played, the total earnings and the off-the-field and on-the-field earnings of the top 50 highest-paid athletes in 2023. The table contains too much information and it doesn't use colors. Too much information makes me lose track of data when I scroll down. Besides, this table is not effective for the audience of Forbes (investors or business owners) to decide which athletes to sponsor or invest in because some athletes' total earnings mostly come from on-the-field earnings like prizes, instead of off-the-field earnings, which represents the underlying business value of the athletes. Simply ranking the total earnings does not deliver any insightful idea relevant to the target audience. 
