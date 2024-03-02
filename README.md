@@ -14,23 +14,19 @@ Hi, I'm Tina (her/she), second year student of MSPPM flagship. I'm a tennis and 
 # What I hope to learn
 As I want to work in Conuslting in the future, which requires plenty of meetings with different stakeholders/clients, I want to utilize better data visualisation tools to develop dashboards or simply charts to perform data trends, patterns, and anomalies, etc. for effective communication in cross-department meetings. Below are some examples of what I want to learn:
 
-1. Using color to better visualise data #1
-2. Creating meaningful chart to better tell the stories from the data #2
-3. Making beautiful and informative charts #3
+1. Using color to better visualise data
+2. Creating meaningful chart to better tell the stories from the data
+3. Making beautiful and informative charts
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+[Visualizing Government Debt](visualizing-government-debt)
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+[Critique by Design](critique-by-design)
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+My final project is to reveal how Chile economy is instable and vulnerable due to the strong reliant on copper export. In the end of the project I gave policy recommendations for Chilean policymakers using a case study of OPEC and crude oil. Last semester, I wrote a memo for Chilean governemnt related to this theme, but the memo had no visualizations, so I decided to use this opportunity to create visuals that supplement my findings and make this theme more approchable to different audiences.
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
