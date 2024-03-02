@@ -8,10 +8,12 @@ My interest in this topic was first driven by a prompt I saw online - "Even the 
 Therefore, in this project, I will reconstruct the process of how I find the fact that Chilean GDP is varies with the price of copper, and how do I develop a policy recommendation from visulizing my data analysis. 
 
 There're four elements of my story:
-Setup: Data visulizing the major copper exporters (Chile is the biggest exporter)
-Climax: Data visulizing the rank of % of copper export in GDP (Chile has the highest percentage among all the countries)
-Conflict: Data visulizing how the Chilean GDP changes with the variation of the copper price (Chile economy is highly relient on the copper price) 
-Call to Action: Data visulizing how OPEC are able to control the crude oil price by controlling the amount of production of crude oil (OPEC policy works well and can be adopted to formulate Chile policy)
+
+**Setup:** Economy overview of Chile
+
+**Climax/Conflict:** Chile economy is highly relient on copper ecport
+
+**Call to Action:** Chile government should take action (Policy Recommendation part)
 
 ## Initial sketches
 1. Data visulizing the major copper exporters (Chile is the biggest exporter)
@@ -38,42 +40,42 @@ For the first chart, I will be only using source 1. For the second chart, I will
 ### Source 1
 Name: Copper ores and concentrates exports by country in 2021
 
-URL: https://wits.worldbank.org/trade/comtrade/en/country/ALL/year/2021/tradeflow/Exports/partner/WLD/product/260300#:~:text=In%202021%2C%20Top%20exporters%20of,4%2C136%2C652.37K%20%2C%20495%2C328%2C000%20Kg).
+[URL](https://wits.worldbank.org/trade/comtrade/en/country/ALL/year/2021/tradeflow/Exports/partner/WLD/product/260300#:~:text=In%202021%2C%20Top%20exporters%20of,4%2C136%2C652.37K%20%2C%20495%2C328%2C000%20Kg)
 
 Description: A list of copper ores and concentrates exports by country in 2021, can be convert to Excel
 
 ### Source 2
 Name: Gross domestic product (GDP)Total, US dollars/capita, in 2021
 
-URL: https://data.oecd.org/gdp/gross-domestic-product-gdp.htm
+[URL](https://data.oecd.org/gdp/gross-domestic-product-gdp.html)
 
 Description: A database of GDP of all OECD countries, where I can filter the countries I want by name
 
 ### Source 3
 Name: Copper Prices - 45 Year Historical Chart
 
-URL:https://www.macrotrends.net/1476/copper-prices-historical-chart-data
+[URL](https://www.macrotrends.net/1476/copper-prices-historical-chart-data)
 
 Description: A database of the copper prices (including Average Closing Price, Year Open, Year High, Year Low and Year Close) of the past 45 years (from 1960 to today)
 
 ### Source 4
 Name: GDP growth (annual %) - Chile
 
-URL: https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CL
+[URL](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=CL)
 
 Description: The database of the GDP annual growth rate of Chile, from 1961 to 2022
 
 ### Source 5
 Name: OPEC Crude Oil Production
 
-URL: https://ycharts.com/indicators/opec_crude_oil_production#:~:text=OPEC%20Crude%20Oil%20Production%20is,5.61%25%20from%20one%20year%20ago.
+[URL](https://ycharts.com/indicators/opec_crude_oil_production#:~:text=OPEC%20Crude%20Oil%20Production%20is,5.61%25%20from%20one%20year%20ago)
 
 Description: The database of the crude oil production amount by OPEC countries, from 1973 to September 2023.
 
 ### Source 6
 Name: Crude Oil Prices - 70 Year Historical Chart
 
-URL: https://www.macrotrends.net/1369/crude-oil-price-history-chart
+[URL](https://www.macrotrends.net/1369/crude-oil-price-history-chart)
 
 Description: A database of the crude oil prices (including Average Closing Price, Year Open, Year High, Year Low and Year Close) of the past 70 years (from 1946 to today)
 
