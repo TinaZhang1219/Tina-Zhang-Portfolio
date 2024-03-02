@@ -28,5 +28,7 @@ As I want to work in Conuslting in the future, which requires plenty of meetings
 My final project is to reveal how Chile economy is instable and vulnerable due to the strong reliant on copper export. In the end of the project I gave policy recommendations for Chilean policymakers using a case study of OPEC and crude oil. Last semester, I wrote a memo for Chilean governemnt related to this theme, but the memo had no visualizations, so I decided to use this opportunity to create visuals that supplement my findings and make this theme more approchable to different audiences.
 
 [Part I](final-project-part-one)
+
 [Part II](final-project-part-two)
+
 [Part III](final-project-part-three)
