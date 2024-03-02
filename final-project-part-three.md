@@ -15,29 +15,18 @@ Based on the feedback I received when interviewing a few people, it was mention 
 ### Add citation to the text and sources for the embed graph
 Previously, the shorthand just had a reference page, but my superscript links actually all did not work. I realized when I copied my writing from the Word document, it automatically delete all the supersciprts. So I went through and included the real citation links. Additionally, all the graph I embed from Tableau does not have source listed at the caption area, so I went back Tableau and add the sources on the graph. The credibility of the graph and my write-up increase by doing this.
 
-### Overall Cleanup and Design Changes
-My orginial draft was pretty incomplete when I sent it over to my interviewers, so I generally just did some cleanup. I added more text, rearranged some of the pages, cheng the font size of some important number or text, and included a few more design elements. Aside from the design items mentioned in the above sections, I also had to play around with the color scheme. I try to use brown-ish color background when doing analysis on copper, and use green/chile city background when giving the policy recmmendation. I’ve learned that overall, sticking to one color scheme throughout the whole site is a bit more difficult that I had expected it to be.
-
+### Overall Cleanup and Design Changes (Final design decisions)
+My orginial draft was pretty incomplete when I sent it over to my interviewers, so I generally just did some cleanup. I added more text, rearranged some of the pages, change the font size of some important number or text I want to emphasize, and included a few more design elements. Aside from the design items mentioned in the above sections, I also had to play around with the color scheme. I try to use brown-ish color background when doing analysis on copper, and use green/chile city background when giving the policy recmmendation. I’ve learned that overall, sticking to one color scheme throughout the whole site is a bit more difficult that I had expected it to be.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+My audience is Chile's policymakers. I decided upon Chile's policymakers because I feel that Chile's policymakers are those who can make the largest impact. For example, the policymaker work in Board of Trade or Ministry of Foreign Affair can have significant influence over which policies are enforced. The legislators/school board members are the decision makers in this situation. 
 
-Text here!
+The only adjustment I made for my audience in my final project is in the presentation. When I was initially structuring what I wanted to say, I kept making too long of an introduction/overview for people not familiar with the Chilean economy, However, as Chile's policymakers and government officials, they would already know the details was and would need long introduction.
 
-My audience is Chile's policymakers and Chilean citizens. 
-**Chile's policymakers** I decided upon this audience because I feel that those are the two groups are either the biggest advocates and people who can make the largest impact. For example, parents are the taxpayers in this situation and can have significant influence over which policies are enforced. The legislators/school board members are the decision makers in this situation.
-
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
 All references like information, photos, and data sources are correctly cited in shorthand.
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+Overall, I really enjoyed working on this project. Having prior knowledge of the data and the subject matter was beneficial as it allowed me to concentrate on tailoring the presentation for the appropriate/target audience. However, I do regret not having explored more design options for my visuals. I felt somewhat limited by my proficiency in the software and wished I could have executed my ideas more effectively. Looking ahead to the next iteration, I anticipate improving my design skills through the Tableau class, which should enable me to better articulate my concepts. Given more time, I would have liked to experiment further to bring my designs to fruition, though Tableau's complexity sometimes posed a challenge. Finally, I would have wanted to find a way to connect the shorthand page with my policy memo to Chile government that I wrote related to this theme and the shorthand page.
